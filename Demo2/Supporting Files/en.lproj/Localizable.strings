@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Demo2
+
+  Created by PCQ196 on 03/02/21.
+  
+*/
+"done_txt" = "Done";
+"progress_start_txt" = "Progress Start";
+"progress_stop_txt" = "Progress Stop";
+"warning_title" = "Warning!";
+"sure_to_remove_img_msg" = "Are you sure to remove image?";
+"remove_txt" = "Remove";
+"cancel_txt" = "Cancel";
